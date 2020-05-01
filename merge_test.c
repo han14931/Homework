@@ -1,9 +1,12 @@
 #include <stdio.h>
 int main(){
 
-	
-	printf("");
-	printf("This is the content of Second Branch");
-	printf("");
-	printf("This is the Content of Third branch");
+
+
+}
+int first_func(){
+}
+int second_func(){
+}
+int third_func(){
 }
